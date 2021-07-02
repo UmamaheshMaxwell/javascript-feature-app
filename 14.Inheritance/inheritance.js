@@ -11,7 +11,8 @@ function Student(age){
     this.age = age
 }
 
-// Inherit the properties from SupertType
+
+// Inherit the properties from SuperType
 Student.prototype = new Person('Tuan', 'Bui');
 
 Student.prototype.getAge = function (){
