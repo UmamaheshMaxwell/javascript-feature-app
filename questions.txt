@@ -1,3 +1,6 @@
 1. Wordpress 
 2. Search engine optimization 
 3. digital marketing
+4. Array Sorting 
+5. Duplications and removals in an array
+6. 
