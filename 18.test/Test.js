@@ -139,3 +139,11 @@ for(var item of Object.keys(obj)){
 }
 
 console.log("Hello %s your Id is %i your details :%o", "Uma", 1234, {name:'umesh'})
+
+setTimeout(function(){
+    console.log('Hello')
+}, 5000)
+
+setInterval(function(){
+    console.log('Hey you ?')
+}, 2000);
